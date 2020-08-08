@@ -11,6 +11,7 @@ Proffy :books:
  - React-Native
  - ReactJS
  - Expo
+ - Typescript
  - Sqlite3
  
  ## :camera: Screenshots:
