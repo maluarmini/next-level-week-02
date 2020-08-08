@@ -9,6 +9,7 @@ Proffy :books:
  ## :rocket: Tecnologias:
  - Node.js
  - React-Native
+ - ReactJS
  - Expo
  - Sqlite3
  
